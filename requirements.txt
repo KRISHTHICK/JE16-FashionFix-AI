@@ -1,0 +1,7 @@
+streamlit
+Pillow
+PyPDF2
+faiss-cpu
+langchain
+tiktoken
+openai   # or use local Ollama if preferred
