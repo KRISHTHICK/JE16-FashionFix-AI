@@ -29,3 +29,13 @@ An AI-powered assistant to help you fix, reuse, or restyle your clothes using RA
 ```bash
 git clone https://github.com/yourname/FashionFix-AI.git
 cd FashionFix-AI
+
+2. Install Requirements
+bash
+pip install -r requirements.txt
+3. Run Streamlit App
+bash
+streamlit run app.py
+4. Optional: Use Ollama LLM
+bash
+ollama run tinyllama
