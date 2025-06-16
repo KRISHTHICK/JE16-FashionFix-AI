@@ -7,15 +7,10 @@ FashionFix AI helps users fix common outfit problems and style challenges using 
 
 💡 Use Cases:
 Suggesting fixes for damaged, outdated, or ill-fitting clothes
-
 Styling mismatched pieces
-
 Generating tips from fashion guides via RAG
-
 Giving reuse or upcycling advice
-
 Offering AI-powered alternatives with modern trends
-
 🌟 Key Features
 Feature	Description
 🧵 Outfit Repair Advisor	Upload image or describe a problem to get fix ideas
@@ -23,3 +18,14 @@ Feature	Description
 👗 AI Stylist Agent	Talk with an LLM-powered agent for trendy repair/upcycle advice
 ✂️ Upcycle/Recycle Generator	Suggests what to turn old items into (e.g., jeans ➝ tote bag)
 📊 Material Compatibility Checker	Suggests which fabrics can combine for best look/sustainability
+
+# 🧵 FashionFix AI – Wardrobe Repair & Style Assistant
+
+An AI-powered assistant to help you fix, reuse, or restyle your clothes using RAG + LLM.
+
+## 🚀 How to Run Locally
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/yourname/FashionFix-AI.git
+cd FashionFix-AI
